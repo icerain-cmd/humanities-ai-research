@@ -135,7 +135,7 @@ Affiliated project: **L-HUSS 사업단** (Regional Humanities-Social Sciences co
 
 Weekly notes on research process, infrastructure decisions, and theoretical development:
 
-> **[Substack — coming soon]**
+> **[Artificial Nature — artificialnature.substack.com](https://artificialnature.substack.com)**
 > Practical AI workflows for humanists. In Korean and English.
 
 If this work is useful to you, consider supporting it via [GitHub Sponsors — coming soon].
