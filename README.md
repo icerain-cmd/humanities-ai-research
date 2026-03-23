@@ -2,7 +2,7 @@
 
 **A scholar-built stack for humanists who want to own their research environment.**
 
-Built and maintained by [Lee Yongwook](https://github.com/leeyongwook), Professor of Korean Language and Literature, Jeonju University.  
+Built and maintained by [Lee Yongwook](https://github.com/icerain-cmd), Professor of Korean Language and Literature, Jeonju University.  
 Research field: **Humanities Engineering** — humanistic inquiry that understands, interprets, and leads technology.  
 Core interests: **Artificial Nature Ontology** · **Media Aesthetics in the Age of Technological Generation**
 
